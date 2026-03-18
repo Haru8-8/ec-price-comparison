@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.db
+config.json
+scheduler.log
+scheduler_error.log
+*.pyc
+
+dist/
+build/
+*.spec
